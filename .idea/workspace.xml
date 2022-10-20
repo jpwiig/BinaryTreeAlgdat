@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac53431a-0b67-4a65-99ea-06b9886c0f12" name="Changes" comment="">
+    <list default="true" id="ac53431a-0b67-4a65-99ea-06b9886c0f12" name="Changes" comment="init 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTree.java" afterDir="false" />
     </list>
@@ -58,8 +58,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666249675525</updated>
-      <workItem from="1666249677440" duration="726000" />
+      <workItem from="1666249677440" duration="4979000" />
     </task>
+    <task id="LOCAL−00001" summary="init 2">
+      <created>1666250635963</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1666250635963</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="init 2" />
   </component>
 </project>
